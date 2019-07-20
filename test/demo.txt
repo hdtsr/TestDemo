@@ -1,0 +1,6 @@
+public Test class{
+
+	public void testMethod(){
+		System.out.println("this is test file.");
+	}
+}
